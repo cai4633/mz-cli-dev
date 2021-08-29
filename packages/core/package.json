@@ -1,6 +1,6 @@
 {
   "name": "@mz-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "> TODO: description",
   "author": "cai4633 <463353522@qq.com>",
   "homepage": "",
@@ -14,7 +14,8 @@
     "test": "__tests__"
   },
   "files": [
-    "lib", "bin"
+    "lib",
+    "bin"
   ],
   "publishConfig": {
     "access": "public"
@@ -23,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@mz-cli-dev/utils": "^1.0.3"
+    "@mz-cli-dev/utils": "^1.0.4"
   },
   "gitHead": "d86af380611e830d592bf5ba30349b80e9a32939"
 }
