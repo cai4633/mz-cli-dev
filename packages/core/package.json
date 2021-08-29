@@ -1,6 +1,6 @@
 {
   "name": "@mz-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "cai4633 <463353522@qq.com>",
   "homepage": "",
@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@mz-cli-dev/utils": "^1.0.1"
+    "@mz-cli-dev/utils": "^1.0.2"
   },
   "gitHead": "c008e8341b0e071fc97bee89504595d41a91efb8"
 }
