@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "import-local": "^3.0.2",
+    "npmlog": "^5.0.0"
   }
 }

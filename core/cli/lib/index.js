@@ -2,6 +2,7 @@
 
 module.exports = core;
 
-function core() {
+function core(argv) {
     // TODO
+    console.log('excute core' + argv);
 }
